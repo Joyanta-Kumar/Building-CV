@@ -1,33 +1,33 @@
-# John Doe
-123 Main Street, City, State, ZIP  
-Phone: (555) 123-4567  
-Email: john.doe@example.com  
-LinkedIn: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)  
-Portfolio: [johndoeportfolio.com](http://johndoeportfolio.com)
+# Joyanta Kumar
+47 College Road, Gazipur, 1700  
+Phone: (+880) 1645872852  
+Email: joyroy122004.com  
+LinkedIn: [linkedin.com/in/joyroy122004](https://linkedin.com/in/joyroy122004)  
+Portfolio: [pages.github.com](github.com)
 
 ---
 
-## Objective / Professional Summary  
-A highly motivated and detail-oriented Computer Science and Engineering graduate with hands-on experience in software development, data structures, and system design. Skilled in programming languages like Java, C++, and Python, with strong problem-solving abilities and a passion for technology. Seeking an opportunity to apply my skills and grow professionally at a leading tech company.
+## Professional Summary  
+A highly motivated and detail-oriented Computer Science and Engineering graduate with hands-on experience in software development, data structures, and system design. Skilled in multiple programming languages with strong problem-solving abilities and a passion for technology. Seeking an opportunity to apply my skills and grow professionally at a leading tech company.
 
 ---
 
 ## Key Skills
-- **Programming Languages:** Java, C++, Python, SQL, JavaScript, HTML/CSS
-- **Software Development:** Object-Oriented Design, Agile Methodologies, RESTful APIs, Web Development
-- **Operating Systems:** Linux, Windows, macOS
-- **Database Management:** MySQL, MongoDB, Firebase, SQL Server
-- **Tools & Technologies:** Git, Docker, Jenkins, Jira, Eclipse, Visual Studio Code
-- **Web Development:** HTML, CSS, JavaScript, React.js, Node.js
-- **Networking:** TCP/IP, DNS, HTTP, VPNs
-- **Others:** Problem-solving, analytical thinking, teamwork, communication, time management
+- **Programming Languages:** Java, Dart, C++, C#, Rust, Go,Ruby, Python, SQL, JavaScript
+- **Software Development:** Object-Oriented Design, Agile Methodologies, RESTful APIs
+- **Operating Systems:** Linux, Windows
+- **Database Management:** MySQL, MongoDB, Firebase, Supabase, SQL Server
+- **Tools & Technologies:** Git, Docker, Flutter, Dotnet, React, Vite Visual Studio, Android Studio
+- **Web Development:** JavaScript, React, Vue, Node
+- **Networking:** TCP/IP, DNS, HTTP, VPNs, I2C
+- **Others:** Analytical thinking, teamwork, communication, time management
 
 ---
 
 ## Education  
 **Bachelor of Science in Computer Science and Engineering (B.Sc. CSE)**  
-XYZ University, City, State — **Graduated: May 2024**  
-Relevant Coursework: Data Structures, Algorithms, Operating Systems, Database Management, Software Engineering, Computer Networks, Artificial Intelligence, Web Development
+University of Dhaka, Dhaka, Bangladesh — **Graduated: undefined**  
+Relevant Coursework: Data Structures, Algorithms, Operating Systems, Database Management, Software Engineering, Computer Networks, Artificial Intelligence, App development.
 
 ---
 
@@ -81,7 +81,7 @@ XYZ University, City, State — **September 2022 to May 2023**
 ---
 
 ## Additional Information
-- **Languages:** English (fluent), Spanish (intermediate)
+- **Languages:** English (fluent), Japanese (intermediate)
 - **Volunteer Experience:**  
   - **Volunteer, Tech Support for Nonprofits** — Provided tech support and training to local nonprofits in setting up websites and databases.
 - **Professional Memberships:**  
