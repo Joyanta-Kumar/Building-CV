@@ -19,7 +19,7 @@ A highly motivated and detail-oriented Computer Science and Engineering graduate
 - **Database Management:** MySQL, MongoDB, Firebase, Supabase, SQL Server
 - **Tools & Technologies:** Git, Docker, Flutter, Dotnet, React, Vite Visual Studio, Android Studio
 - **Web Development:** JavaScript, React, Vue, Node
-- **Networking:** TCP/IP, DNS, HTTP, VPNs, I2C
+- **Networking:** TCP/IP, DNS, HTTP, VPNs, I2C, SPI, UART
 - **Others:** Analytical thinking, teamwork, communication, time management
 
 ---
