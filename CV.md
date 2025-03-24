@@ -7,20 +7,19 @@ Portfolio: [pages.github.com](github.com/joyanta-kumar)
 
 ---
 
-## Professional Summary  
-A highly motivated and detail-oriented Computer Science and Engineering graduate with hands-on experience in software development, data structures, and system design. Skilled in multiple programming languages with strong problem-solving abilities and a passion for technology. Seeking an opportunity to apply my skills and grow professionally at a leading tech company.
+## Summary  
+A highly motivated and detail-oriented Computer Science and Engineering student with hands-on experience in software development, data structures, and system design. Skilled in multiple programming languages with strong problem-solving abilities and a passion for computing technology.
 
 ---
 
 ## Key Skills
-- **Programming Languages:** Java, Dart, C++, C#, Rust, Go,Ruby, Python, SQL, JavaScript
-- **Software Development:** Object-Oriented Design, Agile Methodologies, RESTful APIs
+- **Programming Languages:** C++, C#, Java.
 - **Operating Systems:** Linux, Windows
-- **Database Management:** MySQL, MongoDB, Firebase, Supabase, SQL Server
-- **Tools & Technologies:** Git, Docker, Flutter, Dotnet, React, Vite Visual Studio, Android Studio
-- **Web Development:** JavaScript, React, Vue, Node
+- **Database Management:** Firebase, Supabase.
+- **Tools & Technologies:** Git, VS Code, Android Studio
+**Frameworks:** Flutter, Dotnet, React.
 - **Networking:** TCP/IP, DNS, HTTP, VPNs, I2C, SPI, UART
-- **Others:** Analytical thinking, teamwork, communication, time management
+- **Mindset:** Analytical thinking, Teamwork, communication, Time management
 
 ---
 
