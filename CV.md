@@ -1,9 +1,9 @@
 # Joyanta Kumar
 47 College Road, Gazipur, 1700  
 Phone: (+880) 1645872852  
-Email: joyroy122004.com  
+Email: joyroy122004@gmail.com  
 LinkedIn: [linkedin.com/in/joyroy122004](https://linkedin.com/in/joyroy122004)  
-Portfolio: [pages.github.com](github.com)
+Portfolio: [pages.github.com](github.com/joyanta-kumar)
 
 ---
 
