@@ -17,7 +17,7 @@ A highly motivated and detail-oriented Computer Science and Engineering student 
 - **Operating Systems:** Linux, Windows
 - **Database Management:** Firebase, Supabase.
 - **Tools & Technologies:** Git, VS Code, Android Studio
-**Frameworks:** Flutter, Dotnet, React.
+- **Frameworks:** Flutter, Dotnet, React.
 - **Networking:** TCP/IP, DNS, HTTP, VPNs, I2C, SPI, UART
 - **Mindset:** Analytical thinking, Teamwork, communication, Time management
 
