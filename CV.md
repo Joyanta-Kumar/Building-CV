@@ -25,9 +25,10 @@ A highly motivated and detail-oriented Computer Science and Engineering student 
 
 ## Education  
 **BSc in CSE** (current)
-Mymensingh Engineering College
-University of Dhaka, Bangladesh
-Relevant Coursework: Data Structures, Algorithms, Operating Systems, Database Management, Software Engineering, Computer Networks, Artificial Intelligence.
+- Mymensingh Engineering College
+- University of Dhaka, Bangladesh
+- Relevant Coursework: Data Structures,
+Algorithms, Operating Systems, Database Management, Software Engineering, Computer Networks, Artificial Intelligence.
 
 ---
 One day it will be true
