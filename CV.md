@@ -24,27 +24,21 @@ A highly motivated and detail-oriented Computer Science and Engineering student 
 ---
 
 ## Education  
-**Bachelor of Science in Computer Science and Engineering (B.Sc. CSE)**  
-University of Dhaka, Dhaka, Bangladesh — **Graduated: undefined**  
-Relevant Coursework: Data Structures, Algorithms, Operating Systems, Database Management, Software Engineering, Computer Networks, Artificial Intelligence, App development.
+**BSc in CSE** (current)
+Mymensingh Engineering College
+University of Dhaka, Bangladesh
+Relevant Coursework: Data Structures, Algorithms, Operating Systems, Database Management, Software Engineering, Computer Networks, Artificial Intelligence.
 
 ---
-
+One day it will be true
+```
 ## Work Experience  
-**Software Developer Intern**  
-Tech Solutions Inc., City, State — **June 2023 to August 2023**  
-- Developed and maintained web applications using JavaScript, React.js, and Node.js.
-- Assisted in database design and optimization, using MySQL and MongoDB to store and query large datasets.
-- Participated in daily Scrum meetings and contributed to Agile sprints for various software projects.
-- Wrote unit and integration tests to ensure application functionality and code quality.
-- Debugged and troubleshot code to resolve performance bottlenecks, improving response time by 15%.
-
 **Student Assistant, Department of Computer Science**  
-XYZ University, City, State — **September 2022 to May 2023**  
+Mymensingh Engineering College, Mymensingh, Bangladesh — **September 2022 to May 2023**  
 - Assisted professors with grading assignments and managing course material for Data Structures and Algorithms courses.
 - Provided technical support to fellow students on programming assignments and debugging code.
 - Conducted lab sessions on Python programming for beginner-level students.
-
+```
 ---
 
 ## Projects  
